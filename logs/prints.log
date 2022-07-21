@@ -1,0 +1,15 @@
+13:41:05.728 [main] DEBUG pageObjects.HomePage - Search Button element is accessed
+13:42:10.062 [main] INFO  resources.Base - Chrome Driver is initialised
+13:42:10.087 [main] DEBUG amazon.HomePageTest - Browser is invoked
+13:42:18.186 [main] DEBUG amazon.HomePageTest - Click search method is running
+13:42:18.191 [main] DEBUG pageObjects.HomePage - Search Box element is accessed
+13:42:19.103 [main] DEBUG amazon.HomePageTest - Search Button method is running
+13:42:19.104 [main] DEBUG pageObjects.HomePage - Search Button element is accessed
+13:42:22.373 [main] DEBUG pageObjects.HomePage - Search Button element is accessed
+13:45:49.965 [main] INFO  resources.Base - Chrome Driver is initialised
+13:45:49.989 [main] DEBUG amazon.HomePageTest - Browser is invoked
+13:46:10.357 [main] DEBUG amazon.HomePageTest - Click search method is running
+13:46:10.362 [main] DEBUG pageObjects.HomePage - Search Box element is accessed
+13:46:11.623 [main] DEBUG amazon.HomePageTest - Search Button method is running
+13:46:11.624 [main] DEBUG pageObjects.HomePage - Search Button element is accessed
+13:46:25.837 [main] DEBUG pageObjects.HomePage - Search Button element is accessed
